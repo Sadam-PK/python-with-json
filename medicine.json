@@ -1,0 +1,19 @@
+{
+  "medicines": [
+    {
+      "name": "Disprin",
+      "price": 20,
+      "id": 1
+    },
+    {
+      "name": "Asprin",
+      "price": 30,
+      "id": 2
+    },
+    {
+      "name": "panadol",
+      "price": 25,
+      "id": 3
+    }
+  ]
+}
